@@ -6,9 +6,9 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="report phishing"/>
   <Description DefaultValue="Report Phish Emails to System Admin"/>
-  <IconUrl DefaultValue="https://localhost:3000/assets/phishing.png"/>
-  <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/phishing.png"/>
-  <SupportUrl DefaultValue="https://localhost:3000"/>
+  <IconUrl DefaultValue="https://github.com/FranzJopper/reportPhishing/tree/main/assets/phishing.png"/>
+  <HighResolutionIconUrl DefaultValue="https://github.com/FranzJopper/reportPhishing/tree/main/assets/phishing.png"/>
+  <SupportUrl DefaultValue="https://github.com/FranzJopper/reportPhishing"/>
   <AppDomains>
     <AppDomain>https://localhost:3000</AppDomain>
   </AppDomains>
@@ -24,7 +24,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://localhost:3000/taskpane.html"/>
+        <SourceLocation DefaultValue="https://github.com/FranzJopper/reportPhishing/tree/main/src/taskpane/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -84,13 +84,13 @@
     <Resources>
      
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://localhost:3000/assets/phishing.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://localhost:3000/assets/phishing.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://localhost:3000/assets/phishing.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://github.com/FranzJopper/reportPhishing/tree/main/assets/phishing.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://github.com/FranzJopper/reportPhishing/tree/main/assets/phishing.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://github.com/FranzJopper/reportPhishing/tree/main/assets/phishing.png"/>
       </bt:Images>
       
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="https://localhost:3000/commands.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://github.com/FranzJopper/reportPhishing/tree/main/src/commands/commands.html"/>
       </bt:Urls>
 
       <bt:ShortStrings>
